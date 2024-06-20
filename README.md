@@ -10,7 +10,7 @@ it's ~700B minified which is what I needed for an embedded JS project.
 ## Installation
 
 ```shell
-npm install letat
+npm install https://github.com/alexander-daniel/letat.git
 ```
 
 ## Usage
