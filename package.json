@@ -1,0 +1,13 @@
+{
+  "name": "layta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alexander-daniel",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  }
+}
